@@ -12,11 +12,19 @@ To gain hands-on experience in Java full stack development
 🛠️ Technology Stack
 
 🔹 Frontend
+
 HTML
+
 CSS
+
 JavaScript
+
 🔹 Backend
+
 Java
+
 🔹 Tools
+
 Maven
+
 Git & GitHub
