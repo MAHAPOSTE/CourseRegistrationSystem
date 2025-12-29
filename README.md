@@ -1,5 +1,7 @@
 📌 Project Overview
+
 The Course Registration System is a Java-based full stack web application that allows students to view available courses and register for them, while enabling administrators to manage courses and student enrollments efficiently. This project simulates a real-world academic course enrollment system and demonstrates core Java full stack development concepts.
+
 🎯 Objectives
 
 To automate the course registration process
