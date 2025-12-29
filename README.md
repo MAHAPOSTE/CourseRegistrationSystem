@@ -10,6 +10,7 @@ To provide role-based access for students and administrators
 To gain hands-on experience in Java full stack development
 
 🛠️ Technology Stack
+
 🔹 Frontend
 HTML
 CSS
